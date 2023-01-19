@@ -1,10 +1,9 @@
-### Codes and programs used in
-[An et al. Nature Communications 2023](https://www.nature.com/articles/s41467-023-35959-6 "An Nature Communications 2023").
+### Codes and programs used in [An et al. Nature Communications 2023](https://www.nature.com/articles/s41467-023-35959-6 "An Nature Communications 2023").
 
 ---
 
 Distributed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/ "CC BY-NC-ND")
-license for personal and academic usage only.
+license for **personal and academic usage only**.
 
 Please refer to each directory (where `wk.sh` is the main script) for detailed information.
 
